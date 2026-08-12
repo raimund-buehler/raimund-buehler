@@ -27,9 +27,6 @@ for video-based eye-tracking studies.
 online experiment on social context, built for browser-based data collection and
 deployed via Pavlovia.
 
-**[oslo_opioids](https://github.com/raimund-buehler/oslo_opioids)** — analysis code
-accompanying the [OSF project](https://osf.io/gv7mz).
-
 **[visualizing-the-brain](https://github.com/raimund-buehler/visualizing-the-brain)** —
 teaching materials from an fMRI workshop at ISTA.
 
@@ -38,4 +35,4 @@ teaching materials from an fMRI workshop at ISTA.
 - [University of Vienna profile](https://ufind.univie.ac.at/de/person.html?id=104295)
 - [ORCID](https://orcid.org/0000-0003-0381-0714)
 - [Google Scholar](https://scholar.google.com/citations?user=1X0X2C0AAAAJ)
-<!-- TODO: add OSF profile - [Open Science Framework](https://osf.io/PROFILE/) -->
+- [Open Science Framework](https://osf.io/njmx6/)
