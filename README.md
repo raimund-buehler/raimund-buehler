@@ -36,6 +36,6 @@ teaching materials from an fMRI workshop at ISTA.
 ### Elsewhere
 
 - [University of Vienna profile](https://ufind.univie.ac.at/de/person.html?id=104295)
-- ORCID · <!-- TODO: add your ORCID URL -->
-- Open Science Framework · <!-- TODO: add your OSF profile URL -->
-- Google Scholar · <!-- TODO: add your Scholar URL -->
+- [ORCID](https://orcid.org/0000-0003-0381-0714)
+- [Google Scholar](https://scholar.google.com/citations?user=1X0X2C0AAAAJ)
+<!-- TODO: add OSF profile - [Open Science Framework](https://osf.io/PROFILE/) -->
