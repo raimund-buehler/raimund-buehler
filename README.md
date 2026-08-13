@@ -6,7 +6,7 @@ I study social and motivational processes using behavioural experiments, eye tra
 models of learning, and pharmacological manipulation. Alongside the empirical work
 I build tools for meta-analysis and reproducible research.
 
-**Methods and tools** · experimental design, lab and online · eye tracking and gaze
+**Methods and tools** · experimental design, lab and online · computer vision, eye tracking and gaze
 analysis · reinforcement-learning models · meta-analysis and publication-bias
 methods · R, Shiny, Python, PsychoPy / jsPsych
 
